@@ -1,0 +1,13 @@
+Reflectance values were recorded over the visible and near-infrared range (400 nm to 2498 nm)
+at 2 nm intervals.
+
+The data were originally analysed in McElhinney, Downey and Fearn (1999) and subsequently
+in Dean, Murphy and Downey (2006)
+
+References:
+
+McElhinney, J.,Downey,G. and Fearn, T. (1999) Chemometric processing of visible and near infrared reflectance
+spectra for species identification in selected raw homogenised meats. J. Nr Infrared Spectrosc., 7, 145–154.
+
+Dean, N, Murphy, T.B. and Downey, G. (2006) Using unlabelled data to update classification rules with applications
+in food authenticity studies. Appl. Statist. 55, Part 1, pp. 1–14
